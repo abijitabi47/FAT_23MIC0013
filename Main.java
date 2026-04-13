@@ -8,5 +8,7 @@ public class Main {
 		System.out.println("Number of Classes Conducted : 100");
 		System.out.println("Number of Classes Attended : 85");
 		System.out.println("Attendance Build Successful");
+		System.out.println("Attendance Status : Good");
+		System.out.println("Date : 13/04/2026");
 	}
 }
